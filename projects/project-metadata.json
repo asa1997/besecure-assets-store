@@ -83,6 +83,80 @@
             ]
         },
         {
+            "id": 572,
+            "bes_tracking_id": 572,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/572",
+            "name": "fleet-management",
+            "full_name": "Be-Secure/fleet-management",
+            "description": "The Fleet Management/Telematics implementation on top of the OpenRemote open-source IoT device management platform.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 3732,
+            "open_issues": 0,
+            "created_at": "2025-03-21T05:28:26Z",
+            "updated_at": "2025-03-21T05:28:26Z",
+            "pushed_at": "2025-03-03T08:35:31Z",
+            "git_url": "git://github.com/Be-Secure/fleet-management.git",
+            "clone_url": "https://github.com/Be-Secure/fleet-management.git",
+            "html_url": "https://github.com/Be-Secure/fleet-management",
+            "homepage": "https://openremote.io/fleet-telematics-open-source/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/openremote/fleet-management",
+                "main_bes_url": "https://github.com/Be-Secure/fleet-management",
+                "all_projects": [
+                    {
+                        "id": 716574870,
+                        "name": "openremote/fleet-management",
+                        "url": "https://github.com/openremote/fleet-management"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 952330327,
+                        "name": "Be-Secure/fleet-management",
+                        "url": "https://github.com/Be-Secure/fleet-management"
+                    }
+                ]
+            },
+            "license": {
+                "key": "other",
+                "name": "Other",
+                "spdx_id": "NOASSERTION",
+                "url": null,
+                "node_id": "MDc6TGljZW5zZTA="
+            },
+            "language": {
+                "Java": 107785,
+                "Groovy": 24216,
+                "Shell": 639,
+                "Dockerfile": 358
+              },
+            "tags": [
+            ]
+        },
+        {
             "id": 471,
             "bes_tracking_id": 471,
             "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/471",
